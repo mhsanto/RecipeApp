@@ -1,7 +1,7 @@
 import { Route, Routes } from "react-router-dom";
 import Home from "./pages/Home";
 import Auth from "./pages/Auth";
-import CreateRecipe from "./pages/create-recipe";
+import CreateRecipe from "./pages/create_Recipe/create-recipe";
 import SavedRecipe from "./pages/Saved-recipe";
 import Navbar from "./components/Navbar/Navbar";
 function App() {
